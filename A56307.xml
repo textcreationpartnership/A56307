@@ -1,0 +1,822 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious exhortation to an holy life, or conversation With a clear discovery of the nature of it, what it is. The means of attaining it. The trials of it, how it may be known. The motives, or inducements to it. Or, a profitable companion for conversion. Confirmation. Illumination. Consolation. By Robert Purnell.</title>
+            <author>Purnell, Robert, d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56307</idno>
+            <idno type="STC">Wing P4240</idno>
+            <idno type="STC">ESTC R222001</idno>
+            <idno type="EEBO-CITATION">99833240</idno>
+            <idno type="PROQUEST">99833240</idno>
+            <idno type="VID">37715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2195:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious exhortation to an holy life, or conversation With a clear discovery of the nature of it, what it is. The means of attaining it. The trials of it, how it may be known. The motives, or inducements to it. Or, a profitable companion for conversion. Confirmation. Illumination. Consolation. By Robert Purnell.</title>
+                  <author>Purnell, Robert, d. 1666.</author>
+               </titleStmt>
+               <extent>[12], 94 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Thomas at the Adam and Eve in Little Brittain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The title words "The nature of ... inducements to it." and "conversion. Confirmation" are gathered by a left brace; "Illumination. Consolation." gathered by a right brace.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:37715:1" rendition="simple:additions"/>
+A Serious EXHORTATION To an HOLY LIFE, OR Converſation.</p>
+            <p>With a clear Diſcovery Of</p>
+            <p>
+               <list>
+                  <item>The Nature of it, what it is.</item>
+                  <item>The Means of attaining it.</item>
+                  <item>The Trials of it, how it may be known.</item>
+                  <item>The Motives, or Induce<g ref="char:EOLhyphen"/>ments to it.</item>
+               </list>
+            </p>
+            <p>OR, A profitable Companion For</p>
+            <p>
+               <list>
+                  <item>Converſion.</item>
+                  <item>Illumination.</item>
+                  <item>Confirmation.</item>
+                  <item>Conſolation.</item>
+               </list>
+            </p>
+            <p>By <hi>Robert Purnell.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Thomas</hi> at the Adam and Eve in <hi>Little Brittain.</hi> 1663.</p>
+            <pb facs="tcp:37715:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37715:2"/>
+            <head>An Epiſtle To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>COnſider, there are many wayes to Damnation, and but one way to Salvation; and that is ſtrait, and the gate nar<g ref="char:EOLhyphen"/>row; ſo that although the runners are many, the obtainers are few: Now that we may ſo
+<pb facs="tcp:37715:3"/>
+run that we may ob<g ref="char:EOLhyphen"/>tain, is my deſire and endeavour in this lit<g ref="char:EOLhyphen"/>tle Piece; for there is a way, if we could light on it, which I have pointed at, how to poſſeſſe what we want, how to live long in a little time, and to have one Foot as it were in Heaven, whilſt the other is upon the Earth. This ſmall piece is the Birth of many Prayers, and the ſum and ſubſtance of many ſweet Conver<g ref="char:EOLhyphen"/>ſes, and Meditations,
+<pb facs="tcp:37715:3"/>
+and the Judgement of moſt precious Chriſti<g ref="char:EOLhyphen"/>ans; ſo that this Book is of great Worth, though but of ſmall Price. The beſt and chiefeſt Authors that I have conſulted withal in compiling the enſu<g ref="char:EOLhyphen"/>ing Treatiſe, are the Prophets and Apoſtles, mentioned in the Holy Scriptures of the Old and New Teſtament; ſo that here is no looſe corns to blow off, nor miſ-ſpent words that I know of. I did lately meet with a ſmall piece
+<pb facs="tcp:37715:4"/>
+about this bigneſs, ha<g ref="char:EOLhyphen"/>ving the ſame Title Page (upon the mat<g ref="char:EOLhyphen"/>ter) with this, written by one Mr. <hi>Thomas Wadſworth,</hi> ſome<g ref="char:EOLhyphen"/>times Preacher at <hi>New<g ref="char:EOLhyphen"/>ington,</hi> near <hi>London;</hi> in which Piece there are many choice things, but I finding it lame, or ſhort, as to the be<g ref="char:EOLhyphen"/>ginning, carrying on, and finiſhing the work of <hi>a Holy Converſation;</hi> and finding the neceſ<g ref="char:EOLhyphen"/>ſity of ſuch a Piece in theſe looſe Times, wherein the <hi>Lords Day</hi>
+               <pb facs="tcp:37715:4"/>
+is profan'd, his Ordi<g ref="char:EOLhyphen"/>nances ſlighted or a<g ref="char:EOLhyphen"/>dulterated, his People deſpiſed, <hi>&amp;c.</hi> I have made bold to put Pen to Paper, and ſo to compoſe the enſuing Work, which is neither deficient in neceſſaries, nor abundant in ſuper<g ref="char:EOLhyphen"/>fluities. Thou ſhalt finde it for Order, Me<g ref="char:EOLhyphen"/>thodical; for Matter, Spiritual; for Brevity, Compendious; for Uſe, Precious; <hi>&amp;c.</hi>
+            </p>
+            <p>Conſider, the Truth is the ſame in all Ages, only it ſhines more and
+<pb facs="tcp:37715:5"/>
+more clear from Age to Age, <hi>until that which is perfect is come:</hi> the Truth held forth is the ſame, though with more of God and leſs of Man, ſuch addition is no innovation, but illuſtration; not a new light, but new ſight. A man may not be ſaid to make a new World, when he makes a new diſcovery of the old. My Friends, labour to keep cloſe to God in this looſe Age, ſpend not your precious time in complaining on o<g ref="char:EOLhyphen"/>thers,
+<pb facs="tcp:37715:5"/>
+as moſt do, but rather endeavour in the uſe of all means to reform your ſelves; lay the Foundation of Mortification deep, re<g ref="char:EOLhyphen"/>ſerve no luſt from the ſtroak of Jeſus Chriſt, let your Speech be ſea<g ref="char:EOLhyphen"/>ſoned with Grace, take heed of neglecting or ſlighting any of the Ordinances of God; in order hereunto, read ſeriouſly this ſmall Piece, being <hi>a ſerious Exhortation to an Holy Life and Converſation;</hi> and if thou wilt read
+<pb facs="tcp:37715:6"/>
+ſo as to profit much by it, conſider &amp; obſerve theſe three things.</p>
+            <p n="1">1. Conſider that Sanctification, or an ho<g ref="char:EOLhyphen"/>ly Life, is the Eccho of Election; and Holineſs the Bloſſom of Happi<g ref="char:EOLhyphen"/>neſs; and Piety the in<g ref="char:EOLhyphen"/>let of Felicity; whereas an unholy Life brings external, internal, and eternal miſery upon Perſons and Nations.</p>
+            <p n="2">2. Have no hand in any Plot, but againſt Hells Policy, have no deſign but againſt Sin; learn how to act to thy
+<pb facs="tcp:37715:6"/>
+God Fidelity, to thy Prince Loyalty, to thy ſelf Humility; ſo ſhalt thou be kept from fu<g ref="char:EOLhyphen"/>ture Falls, and guard<g ref="char:EOLhyphen"/>ed from preſent Fears; for God hath either the Caſtle of a Provi<g ref="char:EOLhyphen"/>dence, or the Ark of a Promiſe, or the All-ſufficiency of his own Grace for a retirement of his People in the greateſt Storms and Tempeſts.</p>
+            <p n="3">3. Make a moſt ſtrong Determination from the bottom of thy heart to embrace
+<pb facs="tcp:37715:7"/>
+and obſerve whatſo<g ref="char:EOLhyphen"/>ever thou ſhalt finde to be the will of God, though all the world ſhould be againſt thee for it; ſo ſhall all thy Duties and Services be regulated by Pre<g ref="char:EOLhyphen"/>cept, and winged by Promiſes.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37715:7"/>
+            <head>A Serious <hi>EXHORTATION</hi> To An Holy Life And CONVERSATION.</head>
+            <p>THe Lord of Glory, who is the great Maſter-piece of Speech, when he ſpeaks from Heaven, he makes uſe of three ſeveral Texts of Scripture in one breath, <hi>Mat.</hi> 17. 5. <hi>This is my belo<g ref="char:EOLhyphen"/>ved Son, in whom I am well pleaſed, hear him.</hi> Firſt, <hi>This is my beloved Son,</hi> that Scripture you have in
+<pb n="2" facs="tcp:37715:8"/>
+               <hi>Pſal.</hi> 2. 7. <hi>In whom I am wel pleaſed,</hi> this we have in <hi>Iſa</hi> 42. 1. <hi>Hear him,</hi> this we have in <hi>Deut.</hi> 18. 15. This high and mighty one hath gather'd up all practicall Divinity into ten Precepts, <hi>Exod.</hi> 20. and <hi>Moſes</hi> redu<g ref="char:EOLhyphen"/>ceth them to four Heads, <hi>Deut.</hi> 10. 12. And the Pro<g ref="char:EOLhyphen"/>phet <hi>Micah</hi> to three, <hi>Micah</hi> 6. 8. and our Saviour Chriſt to two, <hi>Mark</hi> 12. 29, 31. and all that we can pray for, or againſt, into ſix heads or petitions, <hi>Matth.</hi> 6. 9. to the 14. verſe. And the Apoſtle <hi>Paul</hi> reduceth all into one, <hi>Rom.</hi> 13. 9. <hi>He that loveth another hath ful<g ref="char:EOLhyphen"/>filled the Law; if there be any other Commandment, it is briefly comprehended in this ſaying, Thou ſhalt love thy Neighbour as thy ſelf.</hi>
+               <pb n="3" facs="tcp:37715:8"/>
+Now that I may manifeſt my love to my neighbour, I do here preſent him with this little piece, which I have for my own and his ſake taken great care and pains in. I ſhall reduce the body of this Book to theſe two great Doctrines of Grace and Works, and ſo ſhall begin,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> With the great Doctrine of Gods free Grace, and</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> End with the Doctrine of Works, which is the ready way to get the appre<g ref="char:EOLhyphen"/>henſion and application of mercy to our ſelves.</p>
+            <p>The Papiſts ſay if we are freely juſtified by Grace, we need not to do any good works; and if we cannot fall from Grace, we need not fear to com<g ref="char:EOLhyphen"/>mit ſin: but every true
+<pb n="4" facs="tcp:37715:9"/>
+Chriſtian will ſay that Faith and Works muſt go together in our converſati<g ref="char:EOLhyphen"/>on.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, To begin with the Doctrine of Grace, if we minde and underſtand the Covenant of Grace, juſti<g ref="char:EOLhyphen"/>fication by Grace, the Do<g ref="char:EOLhyphen"/>ctrine of Grace, we ſhall finde that the Apoſtles all along were very careful to keep this Covenant and Doctrine of Grace diſtinct from all other things: they all along do oppoſe the Law and Grace, Works and Faith, our Righteouſ<g ref="char:EOLhyphen"/>neſs and Chriſts Righte<g ref="char:EOLhyphen"/>ouſneſs, teaching us there<g ref="char:EOLhyphen"/>by how needful it is that they be kept each in his place aſunder, and that we do not as moſt do, jumble them both together. This
+<pb n="5" facs="tcp:37715:9"/>
+Doctrine of Grace hath been and ſtill is a bone of contention: Why ſo? be<g ref="char:EOLhyphen"/>cauſe learning cannot reach it, natural wiſdom is con<g ref="char:EOLhyphen"/>founded at it, evil Angels do not know it, moſt men do turn their backs upon it, being bereaved of the knowledge of it, or elſe corrupted from the ſimpli<g ref="char:EOLhyphen"/>city of it. Let the Reader conſider theſe Scriptures, all ſpeaking to the ſame thing, <hi>Rom.</hi> 4. 5. <hi>But to him that worketh not, but be<g ref="char:EOLhyphen"/>lieveth on him that juſtifieth the ungodly, his faith is counted for righteouſneſs.</hi> Titus 3. 5. <hi>Not by works of righteouſneſs which we have done, but according to his mercy he ſaved us.</hi> Rom. 11. 6. <hi>And if it be by grace, then it is no more of works,</hi>
+               <pb n="6" facs="tcp:37715:10"/>
+               <hi>otherwiſe grace is no more grace;</hi> ſo that the righte<g ref="char:EOLhyphen"/>ouſneſs whereby we are ju<g ref="char:EOLhyphen"/>ſtified before God is a per<g ref="char:EOLhyphen"/>fect righteouſneſs, which is the righteouſneſſe of Chriſt alone, <hi>Heb.</hi> 1. 8 <hi>Mat.</hi> 6. 33. <hi>Rom.</hi> 4. 6. So again, <hi>Pſal.</hi> 71. 15, 16, 19, 24. and <hi>Iſa.</hi> 45. 24. <hi>Surely ſhall one ſay, in the Lord have I righteouſneſs and ſtrength. I will,</hi> ſaith <hi>David, make mention of thy righteouſneſs, even of thine onely.</hi> So that in this, Juſtice and Mercy, as <hi>Pſal.</hi> 85. 10. both meet together. Juſtice in that God will not juſtifie a ſin<g ref="char:EOLhyphen"/>ner without a perfect righ<g ref="char:EOLhyphen"/>teouſneſs; and yet Mercy in that he will accept ſuch a righteouſneſs that is nei<g ref="char:EOLhyphen"/>ther in him, nor done by him, but by his ſurety for him.</p>
+            <p>
+               <pb n="7" facs="tcp:37715:10"/>
+There are theſe eight points or heads in this Do<g ref="char:EOLhyphen"/>ctrine of Free Grace.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> This Doctrine is the Foundation and Baſis of all Chriſtian Religion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> This Doctrine is the in<g ref="char:EOLhyphen"/>let of all Divine peace and conſolation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> This is the root and ſpring of all Goſpel obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> This is the great ſtop and bar to keep out all floods of error.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> This Doctrine is the main ſupport of the Soul under all trials.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> This is the great Do<g ref="char:EOLhyphen"/>ctrine by which Arminia<g ref="char:EOLhyphen"/>niſme and Popery is over<g ref="char:EOLhyphen"/>thrown.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> This is the Doctrine a<g ref="char:EOLhyphen"/>gainſt which Satan doth moſt War, endeavouring
+<pb n="8" facs="tcp:37715:11"/>
+either to pervert, or to cor<g ref="char:EOLhyphen"/>rupt it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> This Doctrine is one of the hardeſt to be learned, it being above the reach of nature.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To begin with the firſt of theſe, This Doctrine is the foundation and baſis of the true Chriſtian Religi<g ref="char:EOLhyphen"/>on, as doth appear by theſe few inſtances.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Our Election is the Ele<g ref="char:EOLhyphen"/>ction of Grace, and accord<g ref="char:EOLhyphen"/>ing to the good pleaſure of his will, <hi>Epheſ.</hi> 1. 4, 5.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Our Vocation is accord<g ref="char:EOLhyphen"/>ing to his Grace, 2 <hi>Tim.</hi> 1. 9. <hi>Who hath ſaved us and called us with an holy cal<g ref="char:EOLhyphen"/>ling, not according to our works, but according to his own purpoſe and grace,</hi> &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Regeneration is of Gods own will, <hi>Jam.</hi> 1. 18. <hi>Of</hi>
+               <pb n="9" facs="tcp:37715:11"/>
+               <hi>his own will begat he us by the word of truth.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Faith it ſelf is the gift of God, <hi>Philip.</hi> 1. 29 <hi>Epheſ.</hi> 2. 8.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Our juſtification is free<g ref="char:EOLhyphen"/>ly by his Grace, <hi>Rom.</hi> 3. 24. and a free gift, <hi>Romans</hi> 5. 15.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Forgiveneſs of all our ſinnes is according to the riches of his Grace, <hi>Epheſ.</hi> 1. 7. <hi>In whom we have re<g ref="char:EOLhyphen"/>demption through his Blood, even the forgiveneſs of ſins, according to the riches of his grace.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Eternal life is the gift of God, <hi>Rom.</hi> 6. 23. <hi>The gift of God is eternal life, through Jeſus Chriſt our Lord,</hi> ſee <hi>Acts</hi> 15. 11.</p>
+            <p>Now if any ſhall ask why God ſhould diſcover this great myſtery which
+<pb n="10" facs="tcp:37715:12"/>
+was kept ſecret ſince the world began to us, who are ſinners of the Gentiles, who in time paſt ſerved dumb idols, or why God ſhould be found of them that ſought him not, or made manifeſt to them that asked not after him; I can give no other anſwer then that, 1 <hi>Cor.</hi> 1. 29. <hi>That no fleſh ſhould glory in his pre<g ref="char:EOLhyphen"/>ſence;</hi> or that, <hi>Mat.</hi> 11. 25, 26. <hi>Even ſo Father, becauſe it ſeemed good in thy ſight.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> As this Doctrine is the foundation and baſis of the true Religion, ſo in the ſe<g ref="char:EOLhyphen"/>cond place it is the root and ſpring of all Divine peace and conſolation: Now peace and joy comes into the ſoul by theſe veins.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> By the vein of our ac<g ref="char:EOLhyphen"/>quainting
+<pb n="11" facs="tcp:37715:12"/>
+our ſelves with him, <hi>Job</hi> 22. 21.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> By the vein of believing in him, <hi>Romans</hi> 5. 1. <hi>Rom.</hi> 15. 13.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> By the vein of ſtaying our ſelves upon him, <hi>Iſaiah</hi> 26. 3. And ſo much for the ſecond head.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> This Doctrine is the root and ſpring of all Goſ<g ref="char:EOLhyphen"/>pel obedience; how do men write of a ſerious ex<g ref="char:EOLhyphen"/>hortation to an holy life and converſation, if they diſcover not the way to it? Our Saviour ſaith, the tree muſt be made good before the fruit can be good: <hi>The Branch cannot bear fruit ex<g ref="char:EOLhyphen"/>cept it abide in the vine, Joh.</hi> 15. 4. ſo that this Doctrine is the root and ſpring of all true obedience, for this Doctrine being received
+<pb n="12" facs="tcp:37715:13"/>
+and retained, works theſe five things in the heart and ſoul, viz. <hi>Faith, Love, Fear, Willingneſs,</hi> and <hi>Chearful<g ref="char:EOLhyphen"/>neſs,</hi> and from theſe as from five ſprings doth Goſpel-obedience flow.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> True obedience doth flow from faith, whence it is called the obedience of faith, <hi>Rom.</hi> 16. 26.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> So alſo love conſtrains them in whom it is, to walk holily, <hi>John</hi> 14. 23. <hi>If a man love me he will keep my words,</hi> Pſalm 26. 3, 4. <hi>For thy loving kindneſs is before mine eyes, and I have walked in thy truth.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> True obedience doth ſpring from an holy fear, <hi>Pſal.</hi> 119. 161. <hi>My heart doth ſtand in awe of thy words:</hi> ſo <hi>Noah being warned of God, was moved with fear, and</hi>
+               <pb n="13" facs="tcp:37715:13"/>
+               <hi>prepared an Ark,</hi> Heb. 11. 7.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> As it ſprings from Faith, Love, and Fear, ſo it ari<g ref="char:EOLhyphen"/>ſeth from a willing minde, <hi>Pſal.</hi> 27. 8. <hi>When thou ſaid<g ref="char:EOLhyphen"/>eſt, ſeek ye my face; my heart anſwered, Lord, thy face will I ſeek.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Goſpel-obedience is, or ought to be, performed chearfully or delightfully, <hi>Pſalm</hi> 40. 8. <hi>Thy Law is in my heart as well as in thy book, I delight to do thy will O God.</hi> By all which it doth appear, that this Doctrine of Grace is the root and ſpring of an holy Conver<g ref="char:EOLhyphen"/>ſation, ſeeing in God are all our ſprings, and from him are all our ſupplies to enable us to perform any duty, to exerciſe any grace, to ſubdue any luſt, to reſiſt any temptation, to bear any
+<pb n="14" facs="tcp:37715:14"/>
+affliction. In a word, the Lord tells us, without him we can do nothing.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> This Doctrine of Free Grace is the great ſtop and barre to keep out all falſe Doctrines and floods of Errors. The floods of all Error flow in at the door of ignorance, and ſpecially ignorance of this very thing, <hi>viz.</hi> the Error of the Papiſt, the Quaker, the Arminian, together with all the inſtability, formali<g ref="char:EOLhyphen"/>ty, legallity, that more or leſs is found amongſt peo<g ref="char:EOLhyphen"/>ple of all perſwaſions, or at leaſt moſt of them ſprings into them at the door of the ignorance of this precious Doctrine of Free Grace. Now for a remedy herein, let every Chriſtian ſtudy, pray, en<g ref="char:EOLhyphen"/>quire
+<pb n="15" facs="tcp:37715:14"/>
+for, and ſtand faſt in the Free Grace of God: ſee that bleſſed place, 1 <hi>Pet.</hi> 5. 12. <hi>Exhorting and teſti<g ref="char:EOLhyphen"/>fying that this is the true grace of God wherein you ſtand.</hi> Rom. 5. 2. <hi>By whom we have acceſs by faith into this grace wherein we ſtand;</hi> ſo that it is moſt clear and plain that their ſtanding in this grace did fence them from all falſe Doctrines and erroneous Opinions, whilſt others that were ig<g ref="char:EOLhyphen"/>norant of this Doctrine, remain ſeeking their ſalva<g ref="char:EOLhyphen"/>tion, partly by Grace, and partly by Works, as <hi>Rom.</hi> 9. 32. <hi>Wherefore? becauſe they ſought it not by faith, but as it were, by the works of the Law; for they ſtumbled at the ſtumbling-ſtone,</hi> &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> This Doctrine is a main
+<pb n="16" facs="tcp:37715:15"/>
+ſupport of a ſoul under all trials; when all things do fail, free Grace and love doth never fail, <hi>Heb.</hi> 13. 5. compared with <hi>Joſhua</hi> 1. 5. our neareſt and deareſt friends may fail, our eyes may fail, our tongues may fail, our ſtrength may fail, our fleſh and our hearts may fail, our ſpirits may fail; but the Lord hath promiſed, that he will ne<g ref="char:EOLhyphen"/>ver fail nor forſake us, <hi>Joſh.</hi> 21. 45. and 1 <hi>Kings</hi> 8. 56. what ſhall I ſay more? the pure, glorious, matchleſs, and ſpotleſs Righteouſneſs of Jeſus Chriſt is a ſouls righteouſneſs and reſting place: But he that under<g ref="char:EOLhyphen"/>ſtands not this Doctrine, his life muſt needs be a burthen to him, he is apt to ſpend his dayes in ſor<g ref="char:EOLhyphen"/>row
+<pb n="17" facs="tcp:37715:15"/>
+and mourning, ſighing and complaining, in doubt<g ref="char:EOLhyphen"/>ing and queſtioning; ſome<g ref="char:EOLhyphen"/>times ſaying within him<g ref="char:EOLhyphen"/>ſelf, my confidence is but preſumption, and my en<g ref="char:EOLhyphen"/>joyments are but deluſi<g ref="char:EOLhyphen"/>ons: Whereas on the con<g ref="char:EOLhyphen"/>trary, he that underſtands, receives, and abides in the Doctrine of Grace, doth reſt ſatisfied in God alone; in this reſt there is tranqui<g ref="char:EOLhyphen"/>lity, in tranquility content<g ref="char:EOLhyphen"/>ment, in contentment joy, in joy variety, in variety ſe<g ref="char:EOLhyphen"/>curity, in ſecurity an aſſured hope of eternity.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> This Doctrine is that by which Satan is, or ſhall be overthrown, and his king<g ref="char:EOLhyphen"/>dom turned up-ſide down: it was Satan that tempted our firſt Parents to eat the forbidden Fruit, it was Sa<g ref="char:EOLhyphen"/>tan
+<pb n="18" facs="tcp:37715:16"/>
+that put <hi>Cain</hi> upon mur<g ref="char:EOLhyphen"/>dering <hi>Abel,</hi> it was Satan that provoked <hi>David</hi> to number the people, it was Satan that put <hi>Peter</hi> upon perſwading of Chriſt not to ſuffer, it was Satan that put treaſon into the heart of <hi>Judas,</hi> it was Satan that put <hi>Ananias</hi> upon lying: Now there are no weapons but ſpiritual weapons that will ſtead the ſoul in com<g ref="char:EOLhyphen"/>bating with the Devil, and what greater weapon hath the Lord put into our hands than this free love of Chriſt to us, <hi>Epheſ.</hi> 6. 13. to the 16.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> This is the Doctrine that Satan doth moſt war againſt, either to pervert or corrupt, as thoſe who know his wiles may eaſily per<g ref="char:EOLhyphen"/>ceive. Oh! how hath Sa<g ref="char:EOLhyphen"/>tan
+<pb n="19" facs="tcp:37715:16"/>
+cauſed the Church of <hi>Rome</hi> to pervert and cor<g ref="char:EOLhyphen"/>rupt this Doctrine? The Papiſt ſaith, if we are free<g ref="char:EOLhyphen"/>ly juſtified by Grace, we need not do any good works; and if we cannot fall from Grace, we need not fear to commit ſinne. How hath he corrupted and perverted this Do<g ref="char:EOLhyphen"/>ctrine in the Quaker, Ar<g ref="char:EOLhyphen"/>minian, and Formaliſt? it would be endleſs to reckon up his wiles herein.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> This Doctrine is one of the hardeſt points in Reli<g ref="char:EOLhyphen"/>gion to be learned, it being above the reach of nature, and all natural parts, <hi>&amp;c.</hi> To do well and have well, is natural; but to believe and live well, is ſupernatu<g ref="char:EOLhyphen"/>ral: to be righteous by an<g ref="char:EOLhyphen"/>others righteouſneſs, and
+<pb n="20" facs="tcp:37715:17"/>
+to be ſaved by anothers ſuffering; theſe are myſte<g ref="char:EOLhyphen"/>ries and paradoxes, which no natural man perceiveth, 1 <hi>Cor.</hi> 2. 14. <hi>Neither can he know them, becauſe they are ſpiritually diſcern'd:</hi> ſo that as in 1 <hi>Cor.</hi> 1. 21. <hi>The world by wiſdom knew not God,</hi> but remains ignorant of the Righteouſneſs of God, and ſo go about to eſtabliſh their own Righteouſneſs, and ſeek ſalvation as it were by the works of the Law, <hi>Rom.</hi> 9. 32. not conſidering that it is impoſſible to ob<g ref="char:EOLhyphen"/>tain ſalvation hereafter, or any firm ſettled peace here, if our confidence towards God be grounded upon our own beſt and choiceſt per<g ref="char:EOLhyphen"/>formances; ſeeing there is ſomething polluted, and ſomething defective; for
+<pb n="21" facs="tcp:37715:17"/>
+all our duties are tainted with diſproportion to rule, and beleapor'd with ſpots and blots, ſo that it is in vain to expect a bed of reſt in the barren wilderneſs of our own performances: for that bed is ſhorter then that a man can ſtretch him<g ref="char:EOLhyphen"/>ſelf on it, and the covering is too narrow for one to wrap himſelf in it. O the ſpots, the blots, the blemi<g ref="char:EOLhyphen"/>ſhes that are to be ſeen up<g ref="char:EOLhyphen"/>on the face of our faireſt duties; ſo that the beſt of us may ſay with the Pro<g ref="char:EOLhyphen"/>phet, <hi>Iſa.</hi> 64. 6. <hi>All our righteouſneſſes are as filthy rags:</hi> therefore <hi>let us ſay no more to the works of our own hands, Ye are our gods: for in the true God the Fa<g ref="char:EOLhyphen"/>therleſs finde mercy,</hi> Hoſea 14. 3. Therefore in vain
+<pb n="20" facs="tcp:37715:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:37715:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:37715:19"/>
+is ſalvation hoped for from the Hills, or from the mul<g ref="char:EOLhyphen"/>titudes of Mountains: therefore let us not be like the Spider, ſpinning out a Web of his own, and ſo think to climb up to Hea<g ref="char:EOLhyphen"/>ven by a thred ſpun out of our own bowels; no, no, that will not do, the Law that we have broken muſt have a perfect, perſonall, univerſall, and perpetuall obedience, or elſe we re<g ref="char:EOLhyphen"/>main under the curſe, from which there is nothing that can relieve us, but that which is anſwerable to the evil of ſin. Now there is no righteouſneſſe in the world that is proportion<g ref="char:EOLhyphen"/>able to the evil of ſin, but the righteouſneſs of Chriſt onely. For,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Our own righteouſneſs
+<pb n="23" facs="tcp:37715:19"/>
+is too ſhort, and is called a menſtruous rag, and ſo can<g ref="char:EOLhyphen"/>not cover us; and menſtru<g ref="char:EOLhyphen"/>ous, ſo that if it ſhould cover us, it were but to co<g ref="char:EOLhyphen"/>ver filth with filth.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Neither is the righteouſ<g ref="char:EOLhyphen"/>neſs of the Law large e<g ref="char:EOLhyphen"/>nough if a man could keep it, becauſe it will not ac<g ref="char:EOLhyphen"/>quit us for former diſobe<g ref="char:EOLhyphen"/>dience: ſee <hi>Gal.</hi> 3. 21. com<g ref="char:EOLhyphen"/>pared with <hi>Rom.</hi> 8. 3, 4.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Neither can the righte<g ref="char:EOLhyphen"/>ouſneſs of all the Angels do it, becauſe this alſo is a created righteouſneſs, a fi<g ref="char:EOLhyphen"/>nite righteouſneſs, and no way proportionable to the evil of ſinne.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> If we ſhould weep as many tears as the Sea holds drops, and humble our ſouls as many dayes as the world hath ſtood mi<g ref="char:EOLhyphen"/>nutes,
+<pb n="24" facs="tcp:37715:20"/>
+all this were too ſhort to purchaſe the par<g ref="char:EOLhyphen"/>don of one ſin: if the ſtung Iſraelites had made a medi<g ref="char:EOLhyphen"/>cine of all the beſt Herbs in the Wilderneſs, and a plaiſter of all the ſovereign ingredients in the whole world, and applyed it with Mountains of Prayers, and Seas of tears, this would not have helped them, if withall they did not look upon the Brazen Serpent, the free grace of God in Jeſus Chriſt. In a word, God will have all bleſſings and happineſs to flow from Free Grace.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> That the worſt of ſin<g ref="char:EOLhyphen"/>ners might have ſtrong ground for hope and com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> For the praiſe of his own glory and exaltation of
+<pb n="25" facs="tcp:37715:20"/>
+his own Grace.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> That vain man may not boaſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> That our mercies and bleſſings might be ſure to us.</p>
+            <p>Yet for all this, let men have a care that in crying down the righteouſneſs of works, they do not cry down the works of righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+            <p>
+               <hi>Object.</hi> If there be a re<g ref="char:EOLhyphen"/>ward hereafter for our Works, how can it be of Grace?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Anſw.</hi> It is of Grace that the Lord doth put it into our hearts to minde it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It is of Grace that the Lord doth enable us to do it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> It is of Grace that Works ſhall be rewarded, ſeeing they are but our du<g ref="char:EOLhyphen"/>ty.
+<pb n="26" facs="tcp:37715:21"/>
+And ſo much for the Doctrine of Grace: now we come to the Doctrine of Works.</p>
+            <p>
+               <hi>Object.</hi> If our Election, Vocation, Regeneration, Juſtification, Sanctificati<g ref="char:EOLhyphen"/>on, Acceptation, and Sal<g ref="char:EOLhyphen"/>vation be of Grace, and onely of Grace, what need is there of ſo much crying up, and preſſing of Works, or an Holy Life and Converſation?</p>
+            <p>
+               <hi>Anſw.</hi> There are many ſtrong prevailing Argu<g ref="char:EOLhyphen"/>ments to engage us and all people to an Holy Life, notwithſtanding all is of Grace; take theſe few for the whole.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Although good Works and an holy Life be not the cauſe of our Salvation, yet they are the way to the
+<pb n="27" facs="tcp:37715:21"/>
+Kingdom, though not the cauſe of reigning.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Chriſt did not free us from the debt of ſin to de<g ref="char:EOLhyphen"/>liver us from the debt of ſervice; but he did the one freely, that we might do the other chearfully.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> We muſt be found in the way of Holineſs in point of Converſation; other<g ref="char:EOLhyphen"/>wiſe we ſhould walk un<g ref="char:EOLhyphen"/>worthy of God, unwor<g ref="char:EOLhyphen"/>thy of the Goſpel, and un<g ref="char:EOLhyphen"/>worthy of our Vocation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> We ſhall never enjoy what is promiſed, unleſs we endeavour to do what is commanded; for without Faith in Chriſt, and obe<g ref="char:EOLhyphen"/>dience to Chriſt, there is no promiſe of Life and Sal<g ref="char:EOLhyphen"/>vation by Chriſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> An holy Converſation muſt be pract<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed by us, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="28" facs="tcp:37715:22"/>
+it hath the promiſe of this life, and of that which is to come, 1 <hi>Tim.</hi> 4. 8.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> An holy Converſation is of neceſſity, as a diſtin<g ref="char:EOLhyphen"/>guiſhing Character of the people of God from others that pretend to it, but are not ſo.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> All opinions amongſt all Profeſſours, however dif<g ref="char:EOLhyphen"/>fering in other things, yet in the neceſſity of an Holy Life they agree; all Print<g ref="char:EOLhyphen"/>ing, Preaching, and con<g ref="char:EOLhyphen"/>tending for Sanctification, good Works, or an Holy Life.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Then of the firſt, al<g ref="char:EOLhyphen"/>though good Works be not the Cauſe of our reign<g ref="char:EOLhyphen"/>ing, yet they are the way to the Kingdom, ordained by the Lord that we ſhould walk in them, and ſo go out
+<pb n="29" facs="tcp:37715:22"/>
+by the foot-ſteps of the Saints, and ſo to walk, as we have Chriſt and his people for an example, 1 <hi>John</hi> 2. 6. compared with <hi>Phil.</hi> 3. 17. This is the ſtrait gate, and the narrow way to the Kingdom, to the which that way leads not, which ſets us not upon the new and living way, the true and onely way, the ſafe and ſtraight way.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Lord Jeſus Chriſt did not free us from the debt of ſin to free us from the debt of ſervice, but he did freely do the one, that we might chearfully return the other; therefore obe<g ref="char:EOLhyphen"/>dience, or an holy Life, is brought in as the very end of our Election, Redempti<g ref="char:EOLhyphen"/>on, Vocation, and new Creation, as abundantly
+<pb n="30" facs="tcp:37715:23"/>
+appears by theſe Scri<g ref="char:EOLhyphen"/>ptures; <hi>Epheſ.</hi> 1. 4. 2. <hi>Cor.</hi> 5. 15. 1 <hi>Pet.</hi> 1. 15. <hi>Epheſ.</hi> 2. 20. The Blood of Chriſt doth both ſanctifie and ſa<g ref="char:EOLhyphen"/>tisfie, both in reſpect of Sanctification and Juſtifi<g ref="char:EOLhyphen"/>cation; ſo that we have ſtill need of <hi>a ſerious Ex<g ref="char:EOLhyphen"/>hortation to an Holy Life and Converſation.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Becauſe if our Conver<g ref="char:EOLhyphen"/>ſation be not anſwerable to our Profeſſion, we walk unworthy of God, unwor<g ref="char:EOLhyphen"/>thy of the Goſpel, and un<g ref="char:EOLhyphen"/>worthy of our Vocation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Unworthy of God, that you have <hi>Coloſ.</hi> 1. 10. 1 <hi>Theſ.</hi> 2. 12.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Unworthy of the Goſ<g ref="char:EOLhyphen"/>pel, that we have, <hi>Phillip<g ref="char:EOLhyphen"/>pians</hi> 1. 27.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Unworthy of our Vo<g ref="char:EOLhyphen"/>cation, that we have <hi>Ephe<g ref="char:EOLhyphen"/>ſians</hi>
+               <pb n="31" facs="tcp:37715:23"/>
+4. 1. We read 1 <hi>Theſ.</hi> 4. 3, 4. <hi>This is the will of God, even our ſanctification, that we abſtain from fornica<g ref="char:EOLhyphen"/>tion; that every one of us ſhould know how to poſſeſs his veſſel in ſanctification and honour:</hi> ſee 1 <hi>Theſ.</hi> 4. 7.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> We ſhall never enjoy what is promiſed, unleſſe we at leaſt endeavour to do what is commanded; for without faith in Chriſt and obedience to him, there is no promiſe of life and ſal<g ref="char:EOLhyphen"/>vation by him, <hi>viz.</hi> Now he hath commanded us to endeavour to know him, believe in him, love him, and repent of all our miſ<g ref="char:EOLhyphen"/>carriages againſt him, <hi>&amp;c.</hi> To which he hath made many promiſes; but as be<g ref="char:EOLhyphen"/>fore we ſhall not receive and enjoy what is promi<g ref="char:EOLhyphen"/>ſed,
+<pb n="32" facs="tcp:37715:24"/>
+unleſſe we perform what is commanded, as doth at large appear, <hi>viz.</hi>
+            </p>
+            <p>Not knowing of God, he will not have mercy up<g ref="char:EOLhyphen"/>on us, <hi>Iſa.</hi> 27. 11.</p>
+            <p>Not repenting, we ſhall aſſuredly periſh, <hi>Luke</hi> 13. 5.</p>
+            <p>Not being zealous for him, he will ſpew us out of his mouth, <hi>Rev.</hi> 3. 16.</p>
+            <p>Not being meek, we are an abomination to him, <hi>Prov.</hi> 3. 32.</p>
+            <p>Not being merciful, we ſhall have judgement with<g ref="char:EOLhyphen"/>out mercy, <hi>Jam.</hi> 2. 13.</p>
+            <p>Not believing in him, we ſhall all periſh, <hi>John</hi> 3. 18.</p>
+            <p>Not loving him, we are and ſhall be accurſed, 1 <hi>Cor.</hi> 16. 22.</p>
+            <p>Not eating the Fleſh, and drinking the Blood of
+<pb n="33" facs="tcp:37715:24"/>
+the Son of God, we have no life in us, <hi>John</hi> 6. 53.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> An holy Converſation or godlineſs, <hi>hath the pro<g ref="char:EOLhyphen"/>miſe of this life, and of that which is to come,</hi> 1 <hi>Tim.</hi> 4. 8. It hath the promiſe of the bleſſings of this life, <hi>Deut.</hi> 28. 3, 4, 5, 6. <hi>Bleſſed ſhalt thou be in the City, and bleſ<g ref="char:EOLhyphen"/>ſed ſhalt thou be in the Field; bleſſed ſhalt thou be in the Basket, and bleſſed ſhalt thou be in the Store<g ref="char:punc">▪</g> bleſſed ſhalt thou be when thou comeſt in, and bleſſed ſhalt thou be when thou goeſt out,</hi> &amp;c. What ſhall I ſay more, Godlineſs hath all the choice promi<g ref="char:EOLhyphen"/>ſes of God annexed to it, <hi>viz.</hi> Godlineſs doth bring true peace, quiet, and com<g ref="char:EOLhyphen"/>fort to the ſoul; nay, it leads a ſoul to have com<g ref="char:EOLhyphen"/>munion with God and his
+<pb n="34" facs="tcp:37715:25"/>
+people; ſo that Godlineſs here is the way to eternal glory hereafter.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> An holy Life and Con<g ref="char:EOLhyphen"/>verſation is of neceſſity to diſtinguiſh between one that ſerveth God, and him that ſerveth him not, <hi>viz.</hi>
+            </p>
+            <p>He that is a ſervant of God will let us know it by his obedience to him, <hi>Rom.</hi> 6. 16. He that is one of Chriſts flock will hear and obey his voice, <hi>John</hi> 10. 27. He that hath an intereſt in the promiſes, will cleanſe himſelf from the filthineſs of fleſh and ſpirit, 2 <hi>Cor.</hi> 7. 1. If Chriſt hath dyed for you, let us ſee it by your living to him, 2 <hi>Cor.</hi> 5. 15. He that is Chriſts will cru<g ref="char:EOLhyphen"/>cifie the fleſh with the af<g ref="char:EOLhyphen"/>fections and luſts, <hi>Gal.</hi> 5. 24. Thoſe whom Chriſt
+<pb n="35" facs="tcp:37715:25"/>
+hath choſen to ſalvation, it is through ſanctification of the Spirit, and belief of the Truth, 2 <hi>Theſ.</hi> 2. 13. He that hath Faith in Chriſt, will let it appear by his works, <hi>Jam.</hi> 2. 18, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> All ſorts of people pre<g ref="char:EOLhyphen"/>tending to Godlineſs agree in this, That there is a ne<g ref="char:EOLhyphen"/>ceſſity of an Holy Life and Converſation, onely the Papiſt, and Quaker, with ſome others, lay too great a ſtreſs upon it; not conſi<g ref="char:EOLhyphen"/>dering that we are ſo far from meriting by our Works of mercy, that our works of mercy ſtand in need of mercy: but to our work of an holy Life and Converſation, let me in<g ref="char:EOLhyphen"/>ſtance but in two Scri<g ref="char:EOLhyphen"/>ptures, <hi>Gen.</hi> 22. 2, 3, 4. in
+<pb n="36" facs="tcp:37715:26"/>
+this Scripture we have the ſtory of <hi>Abraham</hi> in his holy converſation and obe<g ref="char:EOLhyphen"/>dience to God, in offering up his Son. Well, in fine, God commanded him to offer up his Son; in which conſider theſe ſix things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Had he been to part with a dutiful Servant it had been ſomething; but to part with a dutiful Son that is more.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> If with a Sonne, had it been an adopted Son, the tryal had not been ſo great, but this was a natural Son.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> If with a naturall Son, had it been one of many, the triall had not been ſo great; but this was his own and onely Son.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> If with his own and on<g ref="char:EOLhyphen"/>ly Son, yet if he had been young, and ſo likely to
+<pb n="37" facs="tcp:37715:26"/>
+have had more, the tryal had not been ſo great; but he was never like to have more, and this Son was his <hi>Iſaac,</hi> a childe of many prayers and of many pro<g ref="char:EOLhyphen"/>miſes, in whom his heart delighted.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> If he had been to part with him by a naturall death in an ordinary way, the tryal had not been ſo great; but he was to part with him as a Sacrifice, wherein he was to be cut in pieces, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> But yet had ſome other man been the Executioner of his Childe, it had been ſomething; but <hi>Abraham</hi> himſelf muſt do this thing: Now conſider, how can we be the Children of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> except we walk in his ſteps? he truſted upon
+<pb n="38" facs="tcp:37715:27"/>
+God, although he had but his bare word for it, and gave God his own time to make good his own pro<g ref="char:EOLhyphen"/>miſe; and he was ready to part with the deareſt thing for God at the firſt word, and he believed in Hope, againſt hope: O! that thou and I could do the ſame.</p>
+            <p>One would think that the Love of Chriſt, the Promiſes of Chriſt, the Preſence of Chriſt, the Example of Chriſt, and the Recompence of Re<g ref="char:EOLhyphen"/>ward held forth by Chriſt, ſhould make us hold on, and hold out; but if great Love, great Mercy, great Forbearance, great Entrea<g ref="char:EOLhyphen"/>ties, great Wages, will not prevail with us to forſake our Sins, and lead an Holy
+<pb n="39" facs="tcp:37715:27"/>
+Life, Oh! Lord, what will become of us; <hi>for without holineſs no man ſhall ever ſee the Lord,</hi> &amp;c.</p>
+            <p>The ſecond place of Scripture, is <hi>Pſal.</hi> 63. 1, 2. <hi>Oh God thou art my God, ear<g ref="char:EOLhyphen"/>ly will I ſeek thee, my ſoul thirſteth for thee, my fleſh longeth for thee, to ſee thy power, and thy glory, ſo as I have ſeen thee in the Sanctu<g ref="char:EOLhyphen"/>ary:</hi> Here you have deſire upon deſire, you have the very flower and vigour of his Spirit, the ſtrength and ſinews of his Soul, the prime and top of his infla<g ref="char:EOLhyphen"/>med affections, all ſtrongly working after a fuller en<g ref="char:EOLhyphen"/>joyment of God, and a greater meaſure of confor<g ref="char:EOLhyphen"/>mity to him, in a Holy Life and Converſation. Now Obedience, Sanctification,
+<pb n="40" facs="tcp:37715:28"/>
+or an Holy Converſation is neceſſary,</p>
+            <list>
+               <item>1. In reſpect of God.</item>
+               <item>2. In reſpect of our ſelves.</item>
+               <item>3. In reſpect of others.</item>
+            </list>
+            <p n="1">1. It is neceſſary in re<g ref="char:EOLhyphen"/>ſpect of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To manifeſt our Loyal<g ref="char:EOLhyphen"/>ty and Subjection to our Dread Sovereign, and Sa<g ref="char:EOLhyphen"/>cred Majeſty, the Lord of Lords, and King of Kings. <hi>Rom.</hi> 6. 16. <hi>His ſervants ye are to whom ye obey: whe<g ref="char:EOLhyphen"/>ther of ſin unto death, or of obedience unto life:</hi> ſee <hi>John</hi> 8. 34. compared with 2 <hi>Pet.</hi> 2. 19.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It is neceſſary to glori<g ref="char:EOLhyphen"/>fie his name. <hi>Matth.</hi> 5. 16. <hi>Let your light ſo ſhine before men; that they may ſee your good works, and glorifie your Father which is in heaven:</hi>
+               <pb n="41" facs="tcp:37715:28"/>
+ſee 1 <hi>Pet.</hi> 2. 12. compared with 1 <hi>Theſ.</hi> 2. 12.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> To teſtifie our thank<g ref="char:EOLhyphen"/>fulneſs to God in appoint<g ref="char:EOLhyphen"/>ing his Son, our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, to deſcend as low as Hell to fetch us from thence; and to aſcend up as high as Heaven to carry us thither. In a word, whatſoever we have, we have received from him; whatſoever we are, or have, we owe to him; ſo that we may ſay as <hi>Paul, Rom.</hi> 11. 36. <hi>Of him, and through him are all things, to whom be glory for ever. Amen.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Good works, or an holy converſation, is neceſſary to beautifie the Goſpel of Chriſt; <hi>Phil.</hi> 1. 27. <hi>Let your converſation be as be<g ref="char:EOLhyphen"/>comes the Goſpel of Chriſt;</hi> ſo 2 <hi>Cor.</hi> 9. 13. So much
+<pb n="42" facs="tcp:37715:29"/>
+for the firſt of theſe, good works are neceſſary in re<g ref="char:EOLhyphen"/>ſpect of God, to ſhew our obedience, to glorifie his Name, to teſtifie our thank<g ref="char:EOLhyphen"/>fulneſs, and to beautifie his Goſpel, &amp;c.</p>
+            <p n="2">2. Good Works are ne<g ref="char:EOLhyphen"/>ceſſary in reſpect of our ſelves.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> As they are pipes of con<g ref="char:EOLhyphen"/>veyance of both the appre<g ref="char:EOLhyphen"/>henſion and application of mercy, <hi>Pſalm</hi> 50. 23. <hi>To him that ordereth his con<g ref="char:EOLhyphen"/>verſation aright, will I ſhew the ſalvation of God:</hi> ſee <hi>Pſalm</hi> 107. 43. compared with 2 <hi>Pet.</hi> 1. 10, 11.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> An holy Converſation is a ſweet demonſtration of our ſincerity and reality; our Saviour ſaith, <hi>a Tree is known by its fruits;</hi> ſo we may know where Faith
+<pb n="43" facs="tcp:37715:29"/>
+is by its works, and where Love is by its effects, 1 <hi>John</hi> 1. 6. <hi>If we ſay we have fellowſhip with him, and walk in darkneſs, we lie and do not the truth.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> They are neceſſary as to our being and well-being, <hi>Pſalm</hi> 37. 3. <hi>Trust in the Lord, and do good, ſo ſhalt thou dwell in the land, and verily thou ſhalt be fed.</hi> Mat. 16. 27. <hi>He will reward eve<g ref="char:EOLhyphen"/>ry man according to his works.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> This is the way to make our calling and our electi<g ref="char:EOLhyphen"/>on ſure, 2 <hi>Pet.</hi> 1. 5. to the 11. verſe, for if you do theſe things you ſhall ne<g ref="char:EOLhyphen"/>ver fall; for ſo an entrance ſhall be adminiſtred unto you abundantly into the everlaſting kingdom of our Lord and Saviour Jeſus Chriſt.</p>
+            <p>
+               <pb n="44" facs="tcp:37715:30"/>
+3. Good works, or an holy Converſation, is ne<g ref="char:EOLhyphen"/>ceſſary in reſpect of others, <hi>Tit.</hi> 3. 8. <hi>They that have be<g ref="char:EOLhyphen"/>lieved in Chriſt muſt be care<g ref="char:EOLhyphen"/>ful to maintain good works; for theſe things are good and profitable to men,</hi> and that in this four-fold reſpect.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To ſtop the mouths of wicked men, 1 <hi>Pet.</hi> 2. 17. <hi>For this is the will of God, that with well-doing they may put to ſilence the ignorance of fooliſh men.</hi> This made wicked <hi>Saul</hi> ſay to <hi>David,</hi> 1 <hi>Sam.</hi> 24. 17. <hi>Thou art more righteous then I, for thou haſt rewarded good for evil.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> To encreaſe the joy of the Lords people: we read in the ſecond Epiſtle of <hi>John,</hi> v. 4. <hi>I rejoyced great<g ref="char:EOLhyphen"/>ly, that I found of thy chil<g ref="char:EOLhyphen"/>dren</hi>
+               <pb n="45" facs="tcp:37715:30"/>
+               <hi>walking in the truth.</hi> It is a great encouragement to one Chriſtian to ſee the forwardneſs of another in the wayes of well-doing: ſee <hi>Col.</hi> 2. 5.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> To win others to the em<g ref="char:EOLhyphen"/>bracing of the Goſpel, and to an Holy Life and Con<g ref="char:EOLhyphen"/>verſation, 1 <hi>Pet.</hi> 3. 1, 2. <hi>That they may be won whilſt they behold your chaſte con<g ref="char:EOLhyphen"/>verſation coupled with fear,</hi> &amp;c. moſt ſure it is, that a a man doth teach by his Converſation, as well as by his Doctrine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> It is good to others for an example of holineſs, <hi>John</hi> 13. 15. I have done this good work to leave you an example, ſaid our Lord Chriſt: ſee 1 <hi>Theſ.</hi> 1. 7. <hi>So that ye were examples to all that believe.</hi> Many have
+<pb n="46" facs="tcp:37715:31"/>
+been convinced by exam<g ref="char:EOLhyphen"/>ple to lead an holy Life, that would not by precept. By all which we may ſee, that an holy Life is neceſ<g ref="char:EOLhyphen"/>ſary in reſpect of God, our ſelves, and others. Oh! that thou that readeſt theſe Lines, and I that write them, might in good ear<g ref="char:EOLhyphen"/>neſt ſet about this work, <hi>that it might go well with us and our Children,</hi> Deut. 5. 29. for this is the way to have the Lords bleſſing upon us, in all that we ſet our hands unto, <hi>Pſalm</hi> 1. 3. In this the Children of God are manifeſt, and the children of the Devil; whoſoever doth not righ<g ref="char:EOLhyphen"/>teouſneſs is not of God, neither he that loveth not his Brother. <hi>Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt gave himſelf for us, that he</hi>
+               <pb n="47" facs="tcp:37715:31"/>
+               <hi>might redeem us from all iniquity, and purifie unto himſelf a peculiar people zea<g ref="char:EOLhyphen"/>lous of good works.</hi> There<g ref="char:EOLhyphen"/>fore, <hi>Be ye holy,</hi> ſaith the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext, <hi>as I am holy; for without holineſs no man ſhall ſee God,</hi> Heb. 12. 14. We ſhall come now, having gone thus far, to give you the ſumme of all, with ſome farther addition and confirmations to the point in hand, and enquire into theſe four things about an holy Converſation.</p>
+            <list>
+               <item>1. The nature of it what it is.</item>
+               <item>2. The means of attain<g ref="char:EOLhyphen"/>ing it.</item>
+               <item>3. The trials of it how it may be known.</item>
+               <item>4. The motives or in<g ref="char:EOLhyphen"/>ducements to it.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The nature of it what it
+<pb n="48" facs="tcp:37715:32"/>
+is. It is an heedful obſer<g ref="char:EOLhyphen"/>ving the word of God to be our Rule, and his glory our aim, in all our thoughts, reſolutions words, and actions, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> life ordered according to the Word of God, in ho<g ref="char:EOLhyphen"/>lineſs and righteouſneſſe, <hi>Pſal.</hi> 119. 9. <hi>Luke</hi> 1. 75.</p>
+            <p>In a word, an holy Life is the product or effect of a Work of Grace in our hearts, whereby we are re<g ref="char:EOLhyphen"/>newed in the whole man after the image of God, and are enabled more and more to dye unto ſin, and to live unto righteouſneſs, <hi>Epheſ.</hi> 4. 14. compared with <hi>Rom.</hi> 6. 4, 6. An holy Life and Converſation hath two companions, Univerſality and Sincerity, 1 <hi>Tim.</hi> 1. 5. <hi>Now the end of the Com<g ref="char:EOLhyphen"/>mandment</hi>
+               <pb n="49" facs="tcp:37715:32"/>
+               <hi>is charity, out of a pure heart, and of a good con<g ref="char:EOLhyphen"/>ſcience, and of faith un<g ref="char:EOLhyphen"/>feigned.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Out of a pure heart, not abſolutely and com<g ref="char:EOLhyphen"/>pleatly purified from all ſin, but comparatively, by way of juſtification, <hi>Pſal.</hi> 51. 7. when we finde con<g ref="char:EOLhyphen"/>ſcience give a comfortable teſtimony of the hearts ſimplicity and godly ſince<g ref="char:EOLhyphen"/>rity in whatſoever it doth.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Of a good conſcience, that is not naturally good, but ſpiritually and ſuperna<g ref="char:EOLhyphen"/>turally good; <hi>being purged by Chriſts Blood from dead works, to ſerve the living God,</hi> Heb. 9. 14.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Of Faith unfeigned, with<g ref="char:EOLhyphen"/>out hypocriſie: now faith is then unfeigned when it hath the true nature of faith
+<pb n="50" facs="tcp:37715:33"/>
+in it, when it purifies the heart, <hi>Acts</hi> 15. 9. and when it doth overcome the De<g ref="char:EOLhyphen"/>vil and the world, 1 <hi>John</hi> 5. 4. ſo that in all our walkings, be ſure to have an eye upon theſe three things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Be ſure you do what you do from a right ground or principal, otherwiſe it may be ſaid both of thee and me, as it is ſaid of <hi>Amazi<g ref="char:EOLhyphen"/>ah,</hi> 2 <hi>Chron.</hi> 25. 7, 8, 9. <hi>He did that which was right in the ſight of the Lord, but not with a perfect heart.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Be ſure you act by a right Rule; ſome make their own Wills their rule, others make the Traditions and Examples of men their rule, others make the Light within the rule; but a Chriſtian is to make the
+<pb n="51" facs="tcp:37715:33"/>
+Word of God his Rule, and ſo walk and act as we have Chriſt, the Prophets, and Apoſtles for our Ex<g ref="char:EOLhyphen"/>ample, that we may go out by the foot-ſteps of the Flock.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Be ſure thou haſt right ends, low baſe ends ſpoil the higheſtundertakings; ſo for proof hereof, 1 <hi>Cor.</hi> 10. 31. <hi>Whatſoever you do, let all be done to the glory of God,</hi> compared with <hi>Col.</hi> 3. 17. <hi>Phil.</hi> 1. 16. and ſo we ſhall act from a right ground, by a right rule, to a right end.</p>
+            <p n="1">1. We ſhould keep our hearts with <hi>Solomons</hi> dili<g ref="char:EOLhyphen"/>gence, <hi>Prov.</hi> 4. 24.</p>
+            <p n="2">2. We ſhould keep our eyes with <hi>Jobs</hi> Covenant, <hi>Job</hi> 31. 1.</p>
+            <p n="3">3. We ſhould keep our
+<pb n="52" facs="tcp:37715:34"/>
+Tongues with <hi>Davids</hi> Bri<g ref="char:EOLhyphen"/>dle, <hi>Pſal.</hi> 39. 7.</p>
+            <p n="4">4. We ſhould keep our foot with <hi>Solomons</hi> guard, <hi>Eccleſ.</hi> 5. 1.</p>
+            <p>In a word, we ſhould not truſt any member without its keeper, that ſo we might carry our ſelves in all eſtates, in all conditi<g ref="char:EOLhyphen"/>ons, under all adminiſtra<g ref="char:EOLhyphen"/>tions, both to God and his People, and our relations, as becometh an obedient Chriſtian. Conſider, we are his workmanſhip, let us not defile it, or deface it; we are in his preſence, let us not pollute it, by unho<g ref="char:EOLhyphen"/>ly and impure actions. Conſider, we are of the ſame houſhold with God, he is with us in our natu<g ref="char:EOLhyphen"/>ral actions to preſerve us, in our recreations to re<g ref="char:EOLhyphen"/>ſtrain
+<pb n="53" facs="tcp:37715:34"/>
+us, in our publick actions to approve or re<g ref="char:EOLhyphen"/>prove us, in our private to obſerve us, in our ſteps to watch by us, in our watch<g ref="char:EOLhyphen"/>ing to refreſh us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The means of attaining an holy Life and conver<g ref="char:EOLhyphen"/>ſation, I might inſtance in many, but I ſhall reduce all to theſe five heads.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Be throughly convinced, and fully perſwaded of the neceſſity of it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Pray earneſtly and fre<g ref="char:EOLhyphen"/>quently to the Lord to put thee upon it, and to help thee in it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Meditate daily of the hour of Death, the day of Judgement, the joyes of Heaven, the torments of Hell, and the eternity of both.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Think much on the great
+<pb n="54" facs="tcp:37715:35"/>
+diſhonour which an unho<g ref="char:EOLhyphen"/>ly life doth caſt upon God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Keep thy watch and en<g ref="char:EOLhyphen"/>deavour to abſtain from all appearance of evil.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Be throughly convin<g ref="char:EOLhyphen"/>ced and fully perſwaded of the neceſſity of it, <hi>viz.</hi> ground this in the bottom of thine heart, <hi>that with<g ref="char:EOLhyphen"/>out holineſs no man ſhall ſee the Lord,</hi> Heb. 12. 14. <hi>No unclean perſon ſhall enter in<g ref="char:EOLhyphen"/>to the Kingdom of God,</hi> Rev. 21, 27. <hi>&amp;c.</hi> Becauſe holi<g ref="char:EOLhyphen"/>neſs and ſanctification is the way in which the Lords people ſhall be ſa<g ref="char:EOLhyphen"/>ved. I do not ſay that this is the way by which, but the way in which he hath choſen us to ſalvation, ſaith the Scripture, <hi>through ſanctification of the Spirit,</hi>
+               <pb n="55" facs="tcp:37715:35"/>
+               <hi>and belief of the truth,</hi> 2 Theſ. 2. 13.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Pray earneſtly and fre<g ref="char:EOLhyphen"/>quently to the Lord to put thee upon it, and to help thee in it, <hi>Pſal.</hi> 119. 5. <hi>Oh! that my wayes were directed to keep thy Statutes, then ſhall I not be aſhamed, when I have reſpect to all thy Command<g ref="char:EOLhyphen"/>ments,</hi> Jer. 10. 23. We have need to ſeek to the Lord for help, <hi>for it is not in man to direct his ſteps,</hi> Prov. 3. 6. <hi>In all thy wayes acknowledge him, and he ſhall direct thy paths.</hi> Prov. 16. 9. <hi>A mans heart may deviſe his way, but the Lord dire<g ref="char:EOLhyphen"/>cteth his ſteps,</hi> without whom we can do nothing, 2 <hi>Cor.</hi> 3. 5.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Meditate of the hour of Death, day of Judgement, Torments of Hell, and the
+<pb n="56" facs="tcp:37715:36"/>
+Joyes of Heaven, and the Eternity of both: if the love of Chriſt doth not, or will not conſtrain, if the fear of puniſhment will not compell, Lord what will become of us! If great love, great mercy, great forbearance, great entrea<g ref="char:EOLhyphen"/>ties, great and long wait<g ref="char:EOLhyphen"/>ings, great wages will not prevail with us to lead an holy Life, I know not what will? ſurely we can never ſerve ſuch another Maſter as God is, for he doth not onely give us wa<g ref="char:EOLhyphen"/>ges, but doth our work for us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Think much upon the great diſhonour that an un<g ref="char:EOLhyphen"/>holy life doth caſt upon God. In a word, it doth caſt a treble diſhonour on God, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="57" facs="tcp:37715:36"/>
+In its malignity, as being <milestone type="tcpmilestone" unit="unspecified" n="1"/> moſt contrary to the pure, unſpotted, perfect, and ho<g ref="char:EOLhyphen"/>ly nature of God; ſinne is as contrary to God, as light to darkneſs, and Hell to Heaven.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> In its obſtinacy, it oppo<g ref="char:EOLhyphen"/>ſeth the command of God, ſlights the will of God, and contradicts the deſign of God, and brings externall, internal, and eternal mi<g ref="char:EOLhyphen"/>ſery upon the creature, upon perſons, and Nati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> In its choice, a ſinner in living an unholy life choo<g ref="char:EOLhyphen"/>ſeth a baſe luſt, a venomous ſin, a crooked way before the new and living way, the ſure and ſafe way, the true and only way that leadeth unto life and bleſſedneſſe. In a word, an unholy life
+<pb n="58" facs="tcp:37715:37"/>
+puts God upon complain<g ref="char:EOLhyphen"/>ing, the Spirit upon grie<g ref="char:EOLhyphen"/>ving, and Chriſt upon bleeding; beſides it opens the mouths of enemies, and grieves the people of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Let us keep up our watch, and ſtand upon our guard, and at leaſt endea<g ref="char:EOLhyphen"/>vour to abſtain from all ap<g ref="char:EOLhyphen"/>pearance of evil; watch what comes in, and what goes out, and truſt no mem<g ref="char:EOLhyphen"/>ber without its guard, as we ſaid before, <hi>Pſalm</hi> 119. 9. <hi>Wherewith ſhall a young man cleanſe his way? by ta<g ref="char:EOLhyphen"/>king heed thereto according to thy word.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Tryals of it, how it may be known, and that I ſhall reduce to theſe two general heads, <hi>viz.</hi>
+            </p>
+            <p n="1">1. How he that hath, or
+<pb n="59" facs="tcp:37715:37"/>
+pretends to it, may clearly diſcern the truth of it.</p>
+            <p n="2">2. How others that ob<g ref="char:EOLhyphen"/>ſerve him, and behold him, may judge aright of him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Of the firſt, how he that hath it may clearly ſee it, <hi>viz.</hi>
+            </p>
+            <p>True obedience hath two companions, univerſa<g ref="char:EOLhyphen"/>lity and ſincerity; that is, he hath a reſpect to all Gods Commandments, <hi>Pſal.</hi> 119. 6. and doth en<g ref="char:EOLhyphen"/>deavour to keep them, at leaſt purpoſingly and en<g ref="char:EOLhyphen"/>deavouringly: a will to obey the Lord is all that a bleſſed <hi>Paul</hi> can ſometimes finde, <hi>Rom.</hi> 7. 18. Now are there any ſeeds of true life begun? is there any ſpark of conviction, or mo<g ref="char:EOLhyphen"/>tion of repentance? will thy pulſe of remorſe beat a
+<pb n="60" facs="tcp:37715:38"/>
+little, haſt thou a touch of remorſe and ſorrow, a ſpark of Contrition, a grain of Faith, a drop of ſelf-deni<g ref="char:EOLhyphen"/>al; doth thy ſpirit long and breathe, although faintly; doth thy pulſe beat, although feebly; doth thy heart pant after Chriſt although but weakly; doſt thou endeavour to receive Chriſt and his Free Grace, though with a ſhaking hand? well, take thy Evidences from the carriage of thy ſpi<g ref="char:EOLhyphen"/>rit, neither at the beſt, nor at the worſt, but the middle way, which is moſt thy frame; for if thou judge of thy ſelf at the worſt, thou mayeſt be diſcoura<g ref="char:EOLhyphen"/>ged; and if at the beſt, thou mayeſt be deceived; for if we take a prophane man at the beſt, and a good man at the worſt, we ſhall finde
+<pb n="61" facs="tcp:37715:38"/>
+but little difference, <hi>viz.</hi> we read of <hi>Davids</hi> murder<g ref="char:EOLhyphen"/>ing, we read of <hi>Joſephs</hi> ſwearing, <hi>Jobs</hi> curſing the day of his birth, of <hi>Jonah</hi> vexing, <hi>Peter</hi> denying, <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> not believing. Again, on the contrary, we read of <hi>Pharaoh</hi> deſiring the Pray<g ref="char:EOLhyphen"/>er of <hi>Moſes, Balaam</hi> deſiring to dye the death of the righteous, <hi>Saul</hi> condemn<g ref="char:EOLhyphen"/>ing of himſelf, <hi>Ahab</hi> hum<g ref="char:EOLhyphen"/>bling himſelf, <hi>Nineveh</hi> re<g ref="char:EOLhyphen"/>penting, <hi>Felix</hi> trembling: if we now judge by theſe particular actions, we ſhould juſtifie thoſe whom the Lord doth condemn, and condemn thoſe whom the Lord doth juſtifie: Therefore we are not to judge our ſelves by ſome particular acts, but by the conſtant frame and bent of our ſpirits. A true Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="62" facs="tcp:37715:39"/>
+can ſay, though I am not what I would be, yet I would be what I ſhould be; there is much blindneſs with our light, much en<g ref="char:EOLhyphen"/>mity with our love, much pride with our humility; ſo that the beſt Chriſtian may ſay, Lord I ſee, and yet am blinde, I hate and yet I love, I follow and yet I fall, I preſs forward, and yet I faint,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> How others that behold him, may and ought to judge of him, <hi>viz.</hi>
+            </p>
+            <p>He that is a ſervant of God will let us know it by his obedience to him, <hi>Rom.</hi> 6. 16.</p>
+            <p>He that is a ſervant of Chriſt will let us know it by his love to his people, <hi>John</hi> 13. 35.</p>
+            <p>He that ſaith he liveth
+<pb n="63" facs="tcp:37715:39"/>
+in the Spirit will let us know it by his walking in the Spirit, <hi>Gal.</hi> 5. 25.</p>
+            <p>He that abideth in the Vine, will let us ſee it by his fruitfulneſs, <hi>John</hi> 15. 5.</p>
+            <p>He that hath faith will ſhew it us by his works, <hi>Jam.</hi> 2. 18.</p>
+            <p>He that is indeed a wiſe man will let us ſee it by his good converſation, <hi>James</hi> 3. 13.</p>
+            <p>He that hath an intereſt in the promiſes will let us know it by his cleanſing himſelf from all filthineſs, both of fleſh and ſpirit, 2 <hi>Cor.</hi> 7. 1. A man muſt not dance and dine with the Devil, and yet think to lye down with <hi>Abraham, Iſaac,</hi> and <hi>Jacob</hi> in the king<g ref="char:EOLhyphen"/>dom of heaven; moſt men walk in the broad way, and
+<pb n="64" facs="tcp:37715:40"/>
+yet every one thinks to en<g ref="char:EOLhyphen"/>ter in at the ſtrait gate, <hi>Mat.</hi> 7. 13. <hi>Prov.</hi> 16. 25. It is true, the beſt Gold hath ſome droſs, the faireſt day hath its clouds, the fi<g ref="char:EOLhyphen"/>neſt linnen hath its ſpots, and the faireſt Garden hath its weeds, and the beſt Fields hath its Tares, as well as Wheat, and the ſweeteſt fruit ſome worms; ſo have the moſt exact Chriſtians their failings: Wherfore beware of judg<g ref="char:EOLhyphen"/>ing men and women ac<g ref="char:EOLhyphen"/>cording to ſome particular actions, but judge accord<g ref="char:EOLhyphen"/>ing to the conſtant tenor of their converſation; for as we ſaid before, if we take a good man at the worſt, &amp; a wicked man at the beſt, we ſhall finde but little diffe<g ref="char:EOLhyphen"/>rence: therefore let us be<g ref="char:EOLhyphen"/>ware
+<pb n="65" facs="tcp:37715:40"/>
+of condemning thoſe whom the Lord doth juſti<g ref="char:EOLhyphen"/>fie, and of juſtifying thoſe whom the Lord does con<g ref="char:EOLhyphen"/>demn, for both theſe are an abomination to the Lord.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The motives to it, or powerful prevailing argu<g ref="char:EOLhyphen"/>ments to engage us to it, which I ſhall reduce to theſe two heads, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. The benefits that we ſhall gain by it.</item>
+               <item>2. The ſad condition of all that want it.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The benefits which do re<g ref="char:EOLhyphen"/>dound to an holy Life, <hi>viz.</hi>
+            </p>
+            <p>He hath the promiſes of this life, and that which is to come.</p>
+            <p>He hath a bleſſing upon his basket and ſtore, and whatſoever he puts his hand unto, all things work together for his good, at
+<pb n="66" facs="tcp:37715:41"/>
+the preſent, fitting him for ſalvation hereafter; yea, whatſoever loſſes, croſſes, troubles, and trials, perſe<g ref="char:EOLhyphen"/>cutions, and afflictions be<g ref="char:EOLhyphen"/>fal him, it ſhall redound to the glory of God, and his his own good; and if all this be too little, the Lord is teaching him or her that endeavours to order their converſation aright, to take the glory of his moſt Holy Name to be their aim, his Word their rule, the Spirit of Truth to be their guide, the Angels to be their guard, &amp; the precious Pro<g ref="char:EOLhyphen"/>miſes to be their ſupport, and his Sons and Daugh<g ref="char:EOLhyphen"/>ters to be their companions here, and company of innu<g ref="char:EOLhyphen"/>merable Saints and Angels hereafter, <hi>Heb.</hi> 12. Yea the Lord ſhall in the ſight and
+<pb n="67" facs="tcp:37715:41"/>
+hearing of all the world, call his ſanctified ones, as <hi>Mat.</hi> 25. 34. <hi>Come ye bleſſed of my Father, inherit the kingdom prepared for you from the foundation of the world.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Come ye,</hi> my friends, my brethren, my people, my undefiled ones.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Bleſſed.</hi> Here is our abſo<g ref="char:EOLhyphen"/>lution from all ſins.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Of my Father.</hi> Here is the Authour from whom proceeds our bleſſedneſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>Inherit.</hi> Here is our Faith ending in fruition, and the promiſes in poſſeſſion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>The Kingdom.</hi> Behold our birth-right according to Grace, 2 <hi>Tim.</hi> 1. 9.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>Prepared.</hi> See Gods fa<g ref="char:EOLhyphen"/>therly care for his choſen, <hi>John</hi> 14. 2.</p>
+            <p>
+               <hi>From the Foundation of</hi>
+               <pb n="68" facs="tcp:37715:42"/>
+               <hi>the world.</hi> Oh! the free and eternal love of God to poor miſerable man. In a word, there is no place ſo glorious by creation, ſo beautiful for delectation, ſo rich in poſſeſſion, ſo com<g ref="char:EOLhyphen"/>fortable in habitation; there is joy without ſorrow, and pleaſure without pain; there is light without dark<g ref="char:EOLhyphen"/>neſs, mirth without ſad<g ref="char:EOLhyphen"/>neſs, health without ſick<g ref="char:EOLhyphen"/>neſs, wealth without want, credit without diſgrace, beauty without blemiſh, &amp;c. all tears ſhall be done away, all evils removed, all ſinnes aboliſhed, all wants ſupplied: ſee <hi>Rev.</hi> 22. 3. and 21. 4.</p>
+            <p>Heaven is a City, whoſe Maker and Builder is God, <hi>the City of the living God,</hi> Heb. 12. 22. The Court
+<pb n="69" facs="tcp:37715:42"/>
+of God and of Chriſt, wherein are an innumer<g ref="char:EOLhyphen"/>able company of Saints and Angels, <hi>Heb.</hi> 12. 23, 24. It is better ſure to creep towards Heaven though through the valley of tears, then to gallop towards hell upon the mountains of pleaſure.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſad condition of all that want it; Heb. 12. 14. <hi>Follow peace with all men, and holineſs, without which no man ſhall ſee God.</hi> 1 Pet. 1. 15, 16. <hi>As he that hath called us is holy, ſo be ye holy in all manner of converſati<g ref="char:EOLhyphen"/>on; becauſe it is written, be ye holy as I am holy.</hi> Rev. 21. 27. <hi>There ſhall in no wiſe enter into heaven any thing that defileth, nor thoſe that work abomination, or make a lye,</hi> &amp;c. Well, the holy
+<pb n="70" facs="tcp:37715:43"/>
+nature of God will not permit the unclean man or woman to come into his preſence; no, Pſal. 9. 17. <hi>The wicked ſhall be turned into hell.</hi> 2 Theſſ. 1. 8. <hi>The Lord will come in flaming fire, taking vengeance on all them that obey not the Go<g ref="char:EOLhyphen"/>ſpel,</hi> &amp;c. In the mean time whileſt they remain here they are accurſed in their going out, and in their co<g ref="char:EOLhyphen"/>ming in, in the basket and in the ſtore, and in every thing that they put their hand unto, <hi>Deut.</hi> 28. A<g ref="char:EOLhyphen"/>gain, conſider what names all thoſe who want this ho<g ref="char:EOLhyphen"/>ly life and converſation are known by in the Scrip<g ref="char:EOLhyphen"/>tures of truth, <hi>viz.</hi>
+            </p>
+            <p>Sometimes they are cal<g ref="char:EOLhyphen"/>led <hi>filthy dreamers, defiling the fleſh,</hi> Ep. Jude ver. 8.
+<pb n="71" facs="tcp:37715:43"/>
+               <hi>raging waves of the ſea, foaming out their own ſhame,</hi> ver. 13. <hi>Natural bruit beaſts made to be taken and deſtroy<g ref="char:EOLhyphen"/>ed, that ſhall utterly periſh in their own corruption,</hi> 2 Pet. 2. 12. <hi>Wells without water, clouds that are carried with a tempeſt, to whom the miſt of darkneſſe is reſerved for ever,</hi> ver. 17. <hi>A generation of vipers,</hi> Matth. 3. 7. <hi>Ye ſerpents, how can ye eſcape the damnation of hell,</hi> Mat. 23. 33. In a word, the Scriptures call them Lions for their fiercenes, Bears for their cruelty, and Dragons for their hideouſneſſe, Dogs for their filthineſſe, Wolves and Foxes for their ſubtlety; if this be not enough, the Scriptures of truth ſtiles them Scor<g ref="char:EOLhyphen"/>pions vipers, thorns, bri<g ref="char:EOLhyphen"/>ars,
+<pb n="72" facs="tcp:37715:44"/>
+thiſtles, brambles, ſtubble, dirt, duſt, chaffe, droſs, ſmoak, ſcum, un<g ref="char:EOLhyphen"/>clean birds, <hi>Rev.</hi> 18. 2.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Devil is ſaid to be their maſter, <hi>Rom</hi> 6. 16.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Devil is ſaid to be their father, <hi>John</hi> 8. 44.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Devil is ſaid to be their Prince, <hi>John</hi> 12. 31.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The Devil is ſaid to be their god, 2 <hi>Cor.</hi> 4. 4.</p>
+            <p>Now lay all theſe things together, and conſider if the joyes of heaven on the one hand, and the torments of hell on the other hand, will not prevail with us to witneſs a holy life and converſation in our pra<g ref="char:EOLhyphen"/>ctice, I do not know what will: certainly the ſad condition of all that want this holy life will farther appear by theſe particulars.</p>
+            <p>
+               <pb n="73" facs="tcp:37715:44"/>
+His or her ſad condition <milestone type="tcpmilestone" unit="unspecified" n="1"/> at the hour of death.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Their ſad condition at the day of Judgement.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The torments they are like to ſuffer in Hell.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The duration of that helliſh ſtate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Of the hour of Death. Death in Scripture is cal<g ref="char:EOLhyphen"/>led <hi>the King of Terrours,</hi> it hath ſomething to ſay to every one, and would fain be heard; but moſt of the ſons and daughters of men are not at leaſure to hear what he hath to ſay; they put that off to the laſt year, and when that is come to the laſt moneth of that year, and when that is come to the laſt week of that moneth, and when that is come to the laſt day of that week, and when
+<pb n="74" facs="tcp:37715:45"/>
+that is come to the laſt hour of that day, and when that is come to the laſt mi<g ref="char:EOLhyphen"/>nute of that hour, not con<g ref="char:EOLhyphen"/>ſidering that death meets us every where, and enters in at every door, <hi>viz.</hi> by a full meal, or an empty ſto<g ref="char:EOLhyphen"/>mach, by much wine or want of wine, by heat or cold, by violent motion or ſitting ſtill, by every thing in providence, by every thing in nature, by every thing in chance? well, in comes death and looks you grim and black in the face, then you fall into a cold ſweat over all your body, and a trembling in all your joynts; the Head aketh, the Face waxeth pale, the Noſe black, the Eye<g ref="char:EOLhyphen"/>ſtrings break, the Tongue faltereth, the Throat rat<g ref="char:EOLhyphen"/>leth;
+<pb n="75" facs="tcp:37715:45"/>
+then come thy friends and trouble thee as faſt to have thee put thy goods in order, ſome crying, ſome craving, ſome pittying, ſome comforting of the ſick party: If he look up, he ſeeth Gods judgements ready to fall upon him; if he look down, he ſeeth Hell mouth open, ready to receive him; if he look about him, loe a company of evill ſpirits ready to ſnatch his ſoul from him; live he cannot, to dye he is afraid, and what to do he cannot tell: whereas had he lived an holy Life and Converſation, he at the hour of death would now comfort himſelf, and ſay as good <hi>Hezekiah</hi> doth, <hi>Iſa.</hi> 38. 2, 3. <hi>Hezekiah prayed and ſaid, Remember now, O</hi>
+               <pb n="76" facs="tcp:37715:46"/>
+               <hi>Lord, I beſeech thee, how I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy ſight; ſo the Lord added to his dayes fifteen years. Oh! that we were wiſe, that we underſtood this, that we would conſider our latter end, Deut.</hi> 32. 29. and great cauſe have we ſo to do, for our body is but a cottage of clay, and that ſo frail, and craſie, that were it not once or twice a day daubed over, it would fall about our ears. What are our bodies but a Maga<g ref="char:EOLhyphen"/>zine and Hoſpitall of all Diſeaſes, and theſe are fore-runners of Death: when Diſeaſes are in the Houſe, Death is at the Threſhold; when Sickneſs is in the Chamber, Death
+<pb n="77" facs="tcp:37715:46"/>
+is at the Window. Oh! that the Lord would teach us ſo to number our dayes, that we may apply our hearts unto wiſdom.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Let us conſider his ſad condition at the day of Judgement that wants this holy Converſation, <hi>viz.</hi> there is brought in a Bill of Endictment, never ſuch a Bill put up againſt the greateſt offender in any Court of men. The Bill of Endictment it ſelf runs thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Thou art here accuſed for a multitude of ſins of omiſ<g ref="char:EOLhyphen"/>ſion, neglecting to do thy duty to God, to Superiors, Inferiors, and all Relati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> For ſinning both ſecret<g ref="char:EOLhyphen"/>ly and openly, to the diſho<g ref="char:EOLhyphen"/>nour of God, the grief of
+<pb n="78" facs="tcp:37715:47"/>
+his people, and opening the mouth of enemies.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> For ſinning againſt Gods holy Ordinances in neg<g ref="char:EOLhyphen"/>lecting or abuſing them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> For ſinning againſt all Gods Mercies to thee, in abuſing health, wealth, liberty, parts, and gifts.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> For abuſing both the Mercies and Judgements of God; therefore now he will deprive thee of the one, and conſume thee by the other.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> For ſinning againſt the checks of thine own Con<g ref="char:EOLhyphen"/>ſcience, if Conſcience be not a bridle, it will be a whip; if it be not a curb, it will be a ſcourge; if you will not hear the warnings, you ſhall feel the laſhes of it; if it doth not reſtrain from ſin by admonition, it
+<pb n="79" facs="tcp:37715:47"/>
+will put you to pay for ſin by contrition, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> For ſinning againſt the motions of Gods Spirit in reſiſting and grieving it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> For drawing others to ſin by your bad examples and courſes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> For not reproving others for their ſin, as if thou waſt afraid to ſpeak for God, a<g ref="char:EOLhyphen"/>gainſt thoſe that diſho<g ref="char:EOLhyphen"/>noured him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> For a world of precious time, which thou haſt miſ<g ref="char:EOLhyphen"/>ſpent in the world.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> For a multitude of ſe<g ref="char:EOLhyphen"/>cret unknown ſins com<g ref="char:EOLhyphen"/>mitted in thy childe-hood, youth, and man-hood, all thy omiſſions and commiſ<g ref="char:EOLhyphen"/>ſions will then come into thy minde.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> There comes in a long Bill which thou never
+<pb n="80" facs="tcp:37715:48"/>
+dreamedſt of, much leſs couldeſt repent of; igno<g ref="char:EOLhyphen"/>rance will be no plea in this Court, all our ſinfull thoughts, reſolutions, words, and actions, toge<g ref="char:EOLhyphen"/>ther with all our commiſ<g ref="char:EOLhyphen"/>ſions and omiſſions, ſtand up and bear teſtimony a<g ref="char:EOLhyphen"/>gainſt thee. Oh! conſi<g ref="char:EOLhyphen"/>der, if ever any Bill were like unto this; I could al<g ref="char:EOLhyphen"/>moſt ſay to the Reader, as <hi>Nathan</hi> to <hi>David, Thou art the man.</hi> It is true, that in Courts of Juſtice, exce<g ref="char:EOLhyphen"/>ptions againſt Witneſſes are ſometimes allowed, but thou canſt except againſt none here, unleſs it be the devil; but if thou caſhire his teſtimony, what canſt thou ſay againſt thy partners in ſin, do not they know all thy wayes? what canſt thou ſay
+<pb n="81" facs="tcp:37715:48"/>
+againſt good men, that with grief of heart beheld thy ſinful courſes? what canſt thou ſay againſt good An<g ref="char:EOLhyphen"/>gels that will not belye thee? what canſt thou ſay againſt thine own conſci<g ref="char:EOLhyphen"/>ence? what canſt thou ſay againſt the true and all<g ref="char:EOLhyphen"/>knowing God that cannot lye? Then hear the ſentence, <hi>Mat.</hi> 25. 41. <hi>Go ye curſed into everlasting fire prepared for the Devil and his Angels.</hi>
+            </p>
+            <p n="3">3. Let us a little conſi<g ref="char:EOLhyphen"/>der the torments which he is like to ſuffer in Hell, there ſhall be puniſhment without pitty, miſery without mercy, ſorrow without ſuccour, crying without comfort, miſchief without meaſure, torment without eaſe; where the worme dieth not, and
+<pb n="82" facs="tcp:37715:49"/>
+the fire is never quenched; in which flame thou ſhalt ever be burning and never conſumed, ever dying, and never dye; but here thou ſhalt be puniſhed with e<g ref="char:EOLhyphen"/>verlaſting deſtruction from the preſence of the Lord, and from the glory of his power: and ſo here for want of an holy Conver<g ref="char:EOLhyphen"/>ſation, thou haſt changed Heavens felicity for Hells fury, it is better to creep towards Heaven, though through the valley of tears, than to gallop towards Hell upon the mountains of pleaſure.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Conſider the duration of that miſerable eſtate, <hi>Mat.</hi> 25. 41. <hi>Depart ye curſed in<g ref="char:EOLhyphen"/>to everlaſting fire;</hi> this eter<g ref="char:EOLhyphen"/>nal condition admits of no alteration, decay, or con<g ref="char:EOLhyphen"/>ſumption,
+<pb n="83" facs="tcp:37715:49"/>
+future hopes or expectation, waſte or dimi<g ref="char:EOLhyphen"/>nution; mans eternal condi<g ref="char:EOLhyphen"/>tion admits of no mixture or moderation, events or iſ<g ref="char:EOLhyphen"/>ſues of Providence; mans eternal condition admits of no compariſon or revocati<g ref="char:EOLhyphen"/>on, there is no ſounding a retreat after we are lanched into this Ocean; millions of ages paſt away, yet not a minute waſted; this is utter darkneſs, and black<g ref="char:EOLhyphen"/>neſs of darkneſs, weeping and gnaſhing of teeth, the worm that never dyeth, the fire that never goeth forth, &amp;c. and all this is but the effect and product of an un<g ref="char:EOLhyphen"/>holy Converſation. I hope by this time the Reader of theſe lines findeth a neceſſi<g ref="char:EOLhyphen"/>ty of a ſerious exhortation to an holy life and conver<g ref="char:EOLhyphen"/>ſation.</p>
+            <p>
+               <pb n="84" facs="tcp:37715:50"/>
+Now to avoid all theſe miſeries, conſider what is before written, and theſe few things following af<g ref="char:EOLhyphen"/>ter, and ſo I cloſe up this little piece, not doubting but by Gods bleſſing thou mayeſt gain much by it.</p>
+            <p>Now then if thou wouldſt avoid Hells miſe<g ref="char:EOLhyphen"/>ry, and obtain Heavens fe<g ref="char:EOLhyphen"/>licity, learn theſe few things and put them in pra<g ref="char:EOLhyphen"/>ctice.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Keep thy heart with <hi>Solo<g ref="char:EOLhyphen"/>mons</hi> diligence, <hi>Pro.</hi> 4. 24.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Keep thine eyes with <hi>Jobs</hi> Covenant, <hi>Job</hi> 31. 1.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Keep thy tongue with <hi>Davids</hi> Bridle, <hi>Pſal.</hi> 39. 7.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Keep thy foot with <hi>So<g ref="char:EOLhyphen"/>lomons</hi> guard, <hi>Eccleſ.</hi> 5. 1.</p>
+            <p>That thou and I may do ſo, let us put on the whole Armour of God, and not
+<pb n="85" facs="tcp:37715:50"/>
+truſt any member without its keeper.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Have a care of ſpending precious time about things unprofitable or impoſſible, for mans idle time is the Devils buſie time: <hi>There<g ref="char:EOLhyphen"/>fore ſeek the Lord while he may be found, and call upon him while he is near.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Let thy thoughts which are the firſt bloſſom of thy ſoul be awful and godly, 2 <hi>Cor.</hi> 10. 5.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Let thy ſpeech and talk be ſeaſoned with grace, let it be little and true, profit<g ref="char:EOLhyphen"/>able, ſeaſonable, and ſa<g ref="char:EOLhyphen"/>voury, <hi>Prov.</hi> 10. 21.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Let thy works be profit<g ref="char:EOLhyphen"/>able, holy, charitable, and meaſurable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Let thy carriage or man<g ref="char:EOLhyphen"/>ners be grave, courteous, and chearful.</p>
+            <p>
+               <pb n="86" facs="tcp:37715:51"/>
+Let thy diet be mode<g ref="char:EOLhyphen"/>rate <milestone type="tcpmilestone" unit="unspecified" n="6"/> and temperate, bring thine appetite under a rule of reaſon, that it exceed not the bounds of modera<g ref="char:EOLhyphen"/>tion; when thou makeſt a feaſt, be not like <hi>Dives,</hi> who fared deliciouſly; nor like <hi>Martha,</hi> troubled about many diſhes or varieties.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Be content with thine allowance; if thou canſt not raiſe thy eſtate to thy minde, let us ſtoop our mindes to our eſtates.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Let thy apparel be ſober, neat, and comely, be rather too ſparing then over la<g ref="char:EOLhyphen"/>viſhing, rather abridge thy ſelf of ſomewhat thou mighteſt have, then a<g ref="char:EOLhyphen"/>bound; rather come ſhort of thine allowance, then any whit at all to exceed it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Let thy recreation be
+<pb n="87" facs="tcp:37715:51"/>
+lawful, brief, ſeldom, and ſeaſonable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Let thy companions be chiefly thoſe that are god<g ref="char:EOLhyphen"/>ly, beware of too deep fa<g ref="char:EOLhyphen"/>miliarity with wicked ones, for they will talk much to little purpoſe: ſee <hi>Prov.</hi> 4. 14.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Let thy ſleep be mode<g ref="char:EOLhyphen"/>rate, quiet, and ſeaſonable, lie not down to ſleep in thy ſins, neither ſinne in thy ſleep.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> Let thy prayers be ſhort, fervent, frequent, and de<g ref="char:EOLhyphen"/>vout; remember Chriſt prayed often and briefly, and commands us to learn of him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> Have a care of ſpending ſo much time and pains a<g ref="char:EOLhyphen"/>bout the form of godlineſs, as to neglect the power.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> Charge thy memory to
+<pb n="88" facs="tcp:37715:52"/>
+retain the beſt things, not forgetting Death, Judge<g ref="char:EOLhyphen"/>ment, Puniſhment, or Glory.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> If thou wilt live and dye in a continual peace, main<g ref="char:EOLhyphen"/>tain a continual warre a<g ref="char:EOLhyphen"/>gainſt the world, the fleſh, and the Devil; if ever we come to Heaven we muſt fight our every ſtep of our way, ſtep by ſtep, as a Ship cuts out its way in the Sea.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> Endeavour alwayes to keep thine heart in ſuch a frame that thou mayeſt be ready to receive or do good.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> Endeavour to warn them that are unruly, comfort the feeble minded, ſupport the weak, be patient to<g ref="char:EOLhyphen"/>wards all men, 1 <hi>Theſ.</hi> 5. 14.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> Let the Word of God
+<pb n="89" facs="tcp:37715:52"/>
+be thy rule, his glory thy aim, his Spirit thy guide, his Angels thy guard, his Promiſes thy ſupport, his People thy companions, his Ordinances thy de<g ref="char:EOLhyphen"/>light.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> As we do approve of the end which the Almighty aims at, which is the glory of his Name, and the good of his people; ſo we ſhould like and aſſent to the way which he doth act in to accompliſh the ſame, which is ſometimes by means, ſometimes without means, ſometimes contra<g ref="char:EOLhyphen"/>ry to means, ſometimes by ſmall means and inconſide<g ref="char:EOLhyphen"/>rable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> Seriouſly conſider that general which takes in all the former particular rules, <hi>Phil.</hi> 4. 8. <hi>Finally, bre<g ref="char:EOLhyphen"/>thren,</hi>
+               <pb n="90" facs="tcp:37715:53"/>
+               <hi>whatſoever things are true, whatſoever things are honeſt, whatſoever things are juſt, whatſoever things are lovely, whatſoever things are of good report; if there be any vertue, if there be any praiſe, think on theſe things,</hi> ſo as to walk in them, or obſerve and do them; ſo ſhalt thou have prudence to guide thy thoughts, to order and grace thy ſpeech, to help thee to underſtand things preſent, to gueſs at things to come, to recall matters paſt, to poſſeſs that you do want, to live long in a little time, and to carry thy ſelf in all ſtates, in all conditions, under all admi<g ref="char:EOLhyphen"/>niſtrations, both to God and his people, and thy re<g ref="char:EOLhyphen"/>lations, as a righteous, o<g ref="char:EOLhyphen"/>bedient Chriſtian. It is re<g ref="char:EOLhyphen"/>ported
+<pb n="91" facs="tcp:37715:53"/>
+of <hi>Alexanders</hi> bo<g ref="char:EOLhyphen"/>dy, that it was of ſuch an exact and excellent conſti<g ref="char:EOLhyphen"/>tution, that it gave a ſweet ſcent like a perfume; ſo ſhould a Chriſtians conver<g ref="char:EOLhyphen"/>ſation be a ſweet ſmelling ſavour both to God and man; ſo then thou ſhalt not be afraid to dye, nor aſhamed to live: There<g ref="char:EOLhyphen"/>fore let us ſpend more time and pains about that which will make us live happily, and dye comfort<g ref="char:EOLhyphen"/>ably, and reign with Chriſt eternally. We may aſſure our ſelves, it is not the knowing man, nor the talking man, but the doing man that at laſt will be found the happieſt man; for if our knowledge be not turned into practice, the more knowledge we
+<pb n="92" facs="tcp:37715:54"/>
+have, the more miſerable ſhall we be: Although no man merits aſſurance by obedience, yet God uſu<g ref="char:EOLhyphen"/>ally crowns obedience with aſſurance. An un<g ref="char:EOLhyphen"/>holy Profeſſour ſhall al<g ref="char:EOLhyphen"/>wayes want theſe things, <hi>viz.</hi> Comfort and Con<g ref="char:EOLhyphen"/>tent; Confidence and Aſſurance. Read and con<g ref="char:EOLhyphen"/>ſider theſe Scriptures, and I have done, leaving thee to him that never forſakes his.</p>
+            <p>The Scriptures follow, <hi>viz.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hebrews 6. 8.</hi>
+               </bibl> But that which beareth thorns, and briars, is rejected and is nigh unto curſing, whoſe end is to be burned.</q>
+            <q>
+               <bibl>
+                  <hi>Matthew 3. 10.</hi>
+               </bibl> Now the axe is laid to the root of
+<pb n="93" facs="tcp:37715:54"/>
+the tree, therefore eve<g ref="char:EOLhyphen"/>ry tree that bringeth not forth good fruit, is hewen down and caſt into the fire.</q>
+            <q>
+               <bibl>
+                  <hi>1 Theſſalonians 4.</hi>
+               </bibl> 1. Furthermore then, we beſeech you brethren, and exhort you by the Lord Jeſus; that as ye have received of us, how ye ought to walk and to pleaſe God, ſo ye would abound more and more, for this is the will of God, even your ſanctification; <hi>verſe 3.</hi> That every one of you ſhould know how to poſſeſs his veſſel in ſanctification and honour.</q>
+            <q>
+               <bibl>
+                  <hi>Hebrews 13. 20. 21.</hi>
+               </bibl> Now the God of peace that brought again from the dead our Lord Jeſus Chriſt, the great Shepherd of the Sheep, through the blood of the ever<g ref="char:EOLhyphen"/>laſting Covenant, make you
+<pb n="94" facs="tcp:37715:55"/>
+perfect in every good work to do his will, working in you that which is well-pleaſing in his ſight, through Jeſus Chriſt, to whom be glory for ever and ever. <hi>Amen.</hi>
+            </q>
+            <pb facs="tcp:37715:55"/>
+         </div>
+      </body>
+   </text>
+</TEI>
